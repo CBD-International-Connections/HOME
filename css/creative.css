@@ -18,13 +18,13 @@
   --red: #dc3545;
   --orange: #f4623a;
   --yellow: #ffc107;
-  --green: #39cd62;
+  --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #39cd62;
+  --primary: #28a745;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -6205,13 +6205,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #39cd62 !important;
+  background-color: #28a745 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #39cd62 !important;
+  background-color: #28a745 !important;
 }
 
 .bg-secondary {
